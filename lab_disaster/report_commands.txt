@@ -1,0 +1,143 @@
+  115  git init
+  116  sudo apt install git
+  117  git init
+  118  sudo apt install git --fix-missing
+  119  sudo apt-get install git --fix-missing
+  120  git init
+  121  sudo apt-get install git
+  122  git init
+  123  sudo apt --fix-broken install git 
+  124  git --version
+  125  sudo apt-get install git --fix-missing
+  126  sudo apt install git --fix-missing
+  127  sudo apt --fix-broken install git 
+  129  sudo apt-get --fix-broken install git 
+  130  git init
+  131  sudo apt --fix-broken install git 
+  133  sudo apt --fix-broken install git 
+  135  sudo apt install git
+  136  git init
+  145  sudo apt install git
+  147  sudo apt install git
+  148  git --version
+  153  git init
+  156  git add README.md
+  158  git add README.md
+  159  git commit -m "first commit"
+  162  git remote add origin https://github.com/Kitikik/bioinf.git
+  163  git branch -M main
+  164  git push -u origin main
+  167  git init
+  168  git add README.md
+  169  git commit -m 'first commit'
+  170  git remote add origin https://github.com/Kitikik/bioinf.git
+  172  git remote add origin https://github.com/Kitikik/bioinf.git
+  173  git --version
+  175  git status
+  176  git commit -m "first commit"
+  177  git config --global user.email "vorobeva.ta@phystech.edu"
+  178  git status
+  179  git commit -m "first commit"
+  180  git config --global user.email "vorobeva.ta@phystech.edu"
+  181  git config --global user.name "Kitikik"
+  182  git commit -m "first commit"
+  183  git branch -M main
+  184  git remote add origin https://github.com/Kitikik/bioinf.git
+  185  git push -u origin main
+  186  git status
+  187  git remote add origin git@github.com:Kitikik/bioinf.git
+  188  git remote add origin1 git@github.com:Kitikik/bioinf.git
+  189  git push -u origin1 main
+  190  git status
+  192  git
+  193  git init
+  210  .git
+  211  cd /.git
+  228  cd .git
+  233  git clone https://github.com/Weakne55/Bioinformatics305/tree/master# HW1
+  239  git clone https://github.com/Weakne55/Bioinformatics305/tree/master/lab_disaster HW1
+  240  git clone https://github.com/Weakne55/Bioinformatics305.git HW1
+  255  git status
+  268  git remote remove origin
+  269  git status
+  270  git branch
+  271  git log
+  272  git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"
+  273  git lg
+  274  git push
+  275  git remote add origin git@github.com:Kitikik/bioinf.git
+  276  git push
+  277  git push --set-upstream origin master
+  278  git statu
+  279  git status
+  294  git status
+  295  git add .
+  296  git status
+  297  git commit -m "Cleanup temp files"
+  298  git lg
+  299  git push
+  309  git checkout -b investigation
+  310  git status
+  311  git add .
+  312  git commit -m "task2"
+  313  git push
+  322  git status
+  323  git add .
+  324  git commit -m "task3"
+  325  git status
+  326  git push
+  329  git status
+  330  git restore experiment.log
+  332  git status
+  333  git checkout main
+  334  git status
+  335  git checkout main
+  336  git branch
+  337  git checkout master
+  339  git status
+  342  echo "git restore experiment.log" > command.txt
+  345  git status
+  346  git add .
+  347  git commit -m "task4"
+  348  git push
+  349  git status
+  360  git status
+  363  git status
+  364  git add .
+  365  git commit -m "task5"
+  366  git push
+  367  git merge investigation
+  368  git status
+  369  git push
+  375* git statusf
+  377  git status
+  378  git add
+  379  git add .
+  380  git commit -m "task6"
+  381  git push
+  441  git checkout -b claening
+  442  git status
+  443  git add.
+  444  git commit -m "task7"
+  445  git add .
+  446  git commit -m "task7"
+  447  git push
+  448  git status
+  451  git status
+  452  git add test.txt 
+  453  git commit -m "try commit hash"
+  454  git
+  455  git log
+  457  git add
+  458  git add forgotten.txt 
+  459  git log
+  463  git add amend.txt 
+  464  git commit -m "task8"
+  465  git push
+  466  git sttus
+  467  git status
+  468  git push
+  469  git status
+  470  git push
+  471  git history
+  472  history | grep git > report_commands.txt
